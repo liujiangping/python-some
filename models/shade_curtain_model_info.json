@@ -1,0 +1,23 @@
+{
+  "feature_names": [
+    "light_intensity",
+    "temperature",
+    "humidity",
+    "hour",
+    "day_of_week",
+    "light_temp_interaction",
+    "temp_humidity_interaction"
+  ],
+  "feature_importance": {
+    "light_intensity": 0.0,
+    "temperature": 0.004985888265996521,
+    "humidity": 0.0,
+    "hour": 0.0,
+    "day_of_week": 0.0,
+    "light_temp_interaction": 0.9950141117340034,
+    "temp_humidity_interaction": 0.0
+  },
+  "model_type": "DecisionTreeRegressor",
+  "training_time": "2025-09-07T16:12:03.900627",
+  "n_features": 7
+}
